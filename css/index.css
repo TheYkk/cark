@@ -1,0 +1,8 @@
+#wheel {display: inline-block;width: 500px;height: 500px;position: relative;overflow: hidden;}
+#wheel>.wheel {display: inline-block;width: 500px;height: 500px;background: url(../img/wheel.png) no-repeat;position: relative;z-index: 0;}
+#wheel>.arrow {display: block;width: 35px;height: 24px;background: url(../img/arrow.png) no-repeat;position: absolute;top: 238px;left: 0;z-index: 64;}
+.paa-2{max-width: 100%;position: relative;top: 0;}
+.b5px{border-radius: 5px;}
+.px33x{height: 332px;}
+.ccyl{color: yellow;}
+.text-center{text-align: center;}
